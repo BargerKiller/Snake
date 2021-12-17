@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>css/buttonstd.css</file>
+        <file>css/buttonspeed.css</file>
+        <file>css/buttonfield.css</file>
+        <file>css/overleft.css</file>
+    </qresource>
+</RCC>
